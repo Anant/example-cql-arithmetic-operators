@@ -20,6 +20,7 @@ We can run Docker on Gitpod, but as mentioned above, you can run this demo using
 ```bash
 docker run --name cassandra -p 9042:9042 -d cassandra:latest
 ```
+**If running on Gitpod, remember to make the 9042 port public when the dialog shows up on the bottom right-hand corner**
 
 **1.1.2 - Copy CQL File to Container**
 
