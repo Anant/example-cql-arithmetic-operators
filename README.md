@@ -12,7 +12,7 @@ Otherwise, the walkthrough can be followed via Docker!
 
 ## **1. Cassandra**
 
-### **1.1 - Run Cassandra **
+### 1.1 - Run Cassandra
 We can run Docker on Gitpod, but as mentioned above, you can run this demo using your local Docker as well.
 
 **1.1.1 - Start Cassandra.**
